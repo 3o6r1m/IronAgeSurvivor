@@ -1,0 +1,3 @@
+IronAgeSurvivor is supposed to become a modpack for MineCraft 1.12.2.
+
+This will take time, as I have serious difficulties on concentraing on any one project for a prolonged time...
